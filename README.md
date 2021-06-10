@@ -17,8 +17,8 @@
 
 
 ## General Information
-- I applied ETL process for 4 Oil & Gas companies’stock prices (XOM, CVX, COP, EOG) data from Yahoo Finance and analyzed the data
-- I built and deployed Deep Learning model to make prices prediction as a Microservice using Python FastAPI
+- I applied ETL process for 4 Oil & Gas companies’stock prices (XOM, CVX, COP, EOG) data from Yahoo Finance and analyzed the data.
+- I built and deployed Deep Learning model to make prices prediction as a Microservice using Python FastAPI.
 - I decided to choose Exxon Mobil Corporation (XOM), Chevron Corporation (CVX), ConocoPhillips (COP), and EOG Resources, Inc. (EOG) as my 4 stock prices to work on because they are among the largest and most dominant companies in the Oil & Gas industry of the United States. Therefore, I think it would be very fascinating to predict, analyze and obtain some insights about their stock prices.
 
 
@@ -30,7 +30,7 @@
 
 ## Features Insights Generated
 - Correlation Matrices showed the relationship among the targeted stocks.
-- Price prediction for EOG stock by a Neural Network model and deployed using Python FastAPI.
+- Price prediction for EOG stock by a Neural Network model using Tensorflow and deployed using Python FastAPI.
 
 
 ## Screenshots
