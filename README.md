@@ -56,11 +56,11 @@ Room for improvement:
 
 To do:
 - Work on React 
-- Work on Docker
+- Learn and apply Docker
 
 
 ## Acknowledgements
-- This project was inspired by many Data Scientists working at the Hewlett Packard Enterprise Data Science Institute and in Oil & Gas industry. 
+This project was inspired by many Data Scientists working at the Hewlett Packard Enterprise Data Science Institute and in Oil & Gas industry. 
 
 
 ## Contact
